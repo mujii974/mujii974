@@ -1,4 +1,4 @@
-# Hi, I'm Mujii 👋
+# Hi, I'm Mujtaba 👋
 
 I’m a developer focused on building practical software projects across backend systems, web development, and applied problem-solving.
 
